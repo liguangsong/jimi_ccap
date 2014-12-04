@@ -9,9 +9,9 @@
     "image",
     "CImg"
   ],
-  "version": "0.4.3",
-  "url": "https://github.com/DoubleSpout/ccap",
-  "homepage": "https://github.com/DoubleSpout/ccap",
+  "version": "0.5.0",
+  "url": "https://github.com/liguangsong/ccap",
+  "homepage": "https://github.com/liguangsong/ccap",
   "repository": {
     "type": "git",
     "url": "https://github.com/liguangsong/jimi_ccap.git"
