@@ -2,16 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9eb3a19-f2c6-4eaa-80f5-1abc16374c33" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_0.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_1.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_2.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_3.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_4.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_5.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_6.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cap_img/captcha_0_22791_7.bmp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/hcap.js" afterPath="$PROJECT_DIR$/lib/hcap.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gyp-mac-tool" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/cap.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/cap.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/hcaptha.node" afterPath="$PROJECT_DIR$/build/Release/hcaptha.node" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/hcaptha.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/hcaptha.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jaricom.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jaricom.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcapimin.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcapimin.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcapistd.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcapistd.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcarith.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcarith.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jccoefct.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jccoefct.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jccolor.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jccolor.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcdctmgr.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcdctmgr.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jchuff.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jchuff.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcinit.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcinit.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcmainct.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcmainct.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcmarker.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcmarker.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcmaster.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcmaster.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcomapi.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcomapi.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcparam.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcparam.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcprepct.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcprepct.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcsample.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jcsample.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jctrans.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jctrans.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdapimin.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdapimin.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdapistd.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdapistd.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdarith.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdarith.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdatadst.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdatadst.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdatasrc.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdatasrc.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdcoefct.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdcoefct.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdcolor.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdcolor.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jddctmgr.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jddctmgr.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdhuff.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdhuff.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdinput.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdinput.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmainct.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmainct.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmarker.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmarker.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmaster.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmaster.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmerge.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdmerge.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdpostct.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdpostct.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdsample.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdsample.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdtrans.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jdtrans.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jerror.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jerror.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jfdctflt.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jfdctflt.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jfdctfst.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jfdctfst.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jfdctint.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jfdctint.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jidctflt.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jidctflt.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jidctfst.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jidctfst.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jidctint.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jidctint.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jmemmgr.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jmemmgr.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jmemnobs.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jmemnobs.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jquant1.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jquant1.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jquant2.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jquant2.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jutils.o" afterPath="$PROJECT_DIR$/build/Release/obj.target/hcaptha/addon/jpeglib/jutils.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Makefile" afterPath="$PROJECT_DIR$/build/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/cap.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/cap.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/config.gypi" afterPath="$PROJECT_DIR$/build/config.gypi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/hcaptha.node.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/hcaptha.node.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/hcaptha.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/hcaptha.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/hcaptha.target.mk" afterPath="$PROJECT_DIR$/build/hcaptha.target.mk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jaricom.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jaricom.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcapimin.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcapimin.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcapistd.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcapistd.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcarith.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcarith.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jccoefct.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jccoefct.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jccolor.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jccolor.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcdctmgr.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcdctmgr.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jchuff.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jchuff.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcinit.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcinit.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcmainct.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcmainct.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcmarker.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcmarker.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcmaster.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcmaster.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcomapi.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcomapi.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcparam.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcparam.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcprepct.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcprepct.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcsample.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jcsample.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jctrans.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jctrans.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdapimin.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdapimin.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdapistd.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdapistd.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdarith.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdarith.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdatadst.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdatadst.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdatasrc.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdatasrc.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdcoefct.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdcoefct.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdcolor.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdcolor.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jddctmgr.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jddctmgr.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdhuff.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdhuff.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdinput.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdinput.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmainct.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmainct.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmarker.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmarker.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmaster.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmaster.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmerge.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdmerge.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdpostct.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdpostct.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdsample.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdsample.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdtrans.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jdtrans.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jerror.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jerror.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jfdctflt.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jfdctflt.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jfdctfst.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jfdctfst.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jfdctint.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jfdctint.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jidctflt.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jidctflt.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jidctfst.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jidctfst.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jidctint.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jidctint.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jmemmgr.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jmemmgr.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jmemnobs.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jmemnobs.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jquant1.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jquant1.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jquant2.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jquant2.o.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jutils.o.d" afterPath="$PROJECT_DIR$/build/Release/.deps/Release/obj.target/hcaptha/addon/jpeglib/jutils.o.d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ccap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +141,58 @@
       <file leaf-file-name="hcap.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/hcap.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1868" max-vertical-offset="2490">
-              <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2490">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".npmignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.npmignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.gypi" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/config.gypi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1830">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binding.Makefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/binding.Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hcaptha.target.mk" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/hcaptha.target.mk">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3075">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Makefile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/Makefile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5070">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,8 +211,8 @@
       <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30769232" vertical-offset="0" max-vertical-offset="645">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.29307282" vertical-offset="0" max-vertical-offset="645">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -164,6 +308,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ccap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,14 +501,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hcap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1868" max-vertical-offset="2490">
-          <caret line="160" column="22" selection-start-line="160" selection-start-column="22" selection-end-line="160" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/dir.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
@@ -359,10 +509,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hcap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="2490">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="622">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/hcaptha.target.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3075">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5070">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/config.gypi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1830">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/binding.Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30769232" vertical-offset="0" max-vertical-offset="645">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.29307282" vertical-offset="0" max-vertical-offset="645">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
